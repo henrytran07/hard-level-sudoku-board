@@ -34,4 +34,5 @@ This repository contains a C++ program for sudoku game.
       ./sudoku
    ```
    - Follow any instructions that appear in the terminal accordingly. 
+3. **Enjoy the Game!!** 
 
