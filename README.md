@@ -29,7 +29,7 @@ This repository contains a C++ program for sudoku game.
    ```
    - This command compiles 'sudo.cpp' file into an executable named 'sudoku'.
 2. **Run the Program:**
-   - Exectute the compiled program:
+   - Execute the compiled program:
    ```
       ./sudoku
    ```
